@@ -14,6 +14,10 @@ reshaped using package `tidyr`
 * Show how data manipulation in R can be made more efficient using package 
 `dplyr`
 
+**NOTE** that in 90 mins we have barely time to scratch these topics. The best
+outcome is therefore that the participants are aware of them and can start 
+exploring the topics and packages in more detail. 
+
 ### Description
 
 For already a good while, R has been *the* go-to computational environment for 
