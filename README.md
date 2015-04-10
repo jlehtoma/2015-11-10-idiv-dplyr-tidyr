@@ -14,8 +14,8 @@ reshaped using package `tidyr`
 * Show how data manipulation in R can be made more efficient using package 
 `dplyr`
 
-**NOTE** that in 90 mins we have barely time to scratch these topics. The best
-outcome is therefore that the participants are aware of them and can start 
+**NOTE** that in 90 mins we have barely time to scratch these topics, so the 
+best possible outcome is that the participants are aware of them and can start 
 exploring the topics and packages in more detail. 
 
 ### Description
@@ -54,9 +54,11 @@ possible by:
 
 A working knowledge in R is assumed. If you've written more than 10 lines of 
 code then you can probably follow what's going on. We'll be running some example 
-code (to be distributed in before hand) in the workshop, so bring your own 
-laptop. Make sure you have `R ` (>=3.1.0), `tidyr` (>=0.2.0) and `dplyr` 
-(>=0.4.1) installed. **We will not have time to install these in the workshop!** [RStudio](http://www.rstudio.com/) is *highly* recommended but not required.
+code (to be distributed in advance) in the workshop, so bring your own laptop.
+Pairing up with someone with a laptop is also a good option. Make sure you have 
+`R ` (>=3.1.0), `tidyr` (>=0.2.0) and `dplyr` (>=0.4.1) installed. **We will not 
+have time to install these in the workshop! **[RStudio](http://www.rstudio.com/) 
+is *highly* recommended but not required.
 
 ### Recommended reading
 
