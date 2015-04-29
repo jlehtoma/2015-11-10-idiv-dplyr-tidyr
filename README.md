@@ -62,6 +62,16 @@ is *highly* recommended but not required.
 
 ### Recommended reading
 
+* White, E. P., Baldridge, E., Brym, Z., Locey, K., McGlinn, D., & Supp, S. 
+(2013): [Nine simple ways to make it easier to (re)use your data](http://library.queensu.ca/ojs/index.php/IEE/article/view/4608). Ideas in 
+Ecology and Evolution, 6(2), 1–10.
 * Wickham, Hadley (2014): [Tidy data](http://www.jstatsoft.org/v59/i10/paper).
 Journal of Statistical Software. 59(10). pp. 1-23.
+
+
+### Additional links
+
+* ["Data Wrangling with R"](http://bit.ly/wrangling-webinar) presentation by
+Garrett Grolemund (RStudio)
 * ["Data Wrangling with dplyr and tidyr" cheat sheet ](http://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
+by RStudio
