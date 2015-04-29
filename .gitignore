@@ -2,3 +2,6 @@
 .Rhistory
 .RData
 *.html
+participants.csv
+wrangling-webinar.pdf
+data/*.sqlite
