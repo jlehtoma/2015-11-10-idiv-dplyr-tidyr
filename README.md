@@ -1,11 +1,8 @@
----
-output:
-  pdf_document: default
-  html_document:
-    theme: flatly
----
+## Workshop: Simplifying data manipulation in R (2 hrs)
 
-## Workshop: Simplifying data manipulation in R (90 min)
+**Instructor:** Joona Lehtomäki, University of Helsinki.  
+**Place and time:**  German Centre for Integrative Biodiversity Research (iDiv),
+2015-11-10, 15:45 - 17:45.  
 
 ### Workshop objectives
 
@@ -13,10 +10,6 @@ output:
 reshaped using package `tidyr`
 * Show how data manipulation in R can be made more efficient using package 
 `dplyr`
-
-**NOTE** that in 90 mins we have barely time to scratch these topics, so the 
-best possible outcome is that the participants are aware of them and can start 
-exploring the topics and packages in more detail. 
 
 ### Description
 
